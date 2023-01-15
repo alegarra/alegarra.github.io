@@ -1,2 +1,2 @@
 # alegarra.github.io
-public web page
+will copy here content from <https://genoweb.toulouse.inra.fr/~alegarra/>
