@@ -11,7 +11,7 @@ Since 2023 I am Senior Geneticist for [CDCB](https://uscdcb.com) working in gene
 
 I did my PhD in [Neiker](http://www.neiker.net/?lang=en) with [Eva Ugarte](http://www.neiker.net/ia/produccion-animal/lineas-investigacion-pa/?lang=en)  and I did a postdoc at the Animal and Dairy Science Department at the University of Georgia, with [Ignacy Misztal and Keith Bertrand](http://nce.ads.uga.edu). For 17 years I have been Research Director at [INRA Toulouse](http://www.toulouse.inra.fr/en) in the [GenPhySE](http://genphyse.toulouse.inra.fr) unit, at the [Animal Genetics](www.ga.inra.fr/en) department. I am now on unpaid leave.
 
-This is my new, non-fancy web page created with [markdown](https://en.wikipedia.org/wiki/Markdown) and [MacDown](http://macdown.uranusjr.com).
+This is my new, non-fancy web page created with [markdown](https://en.wikipedia.org/wiki/Markdown) and [MacDown](http://macdown.uranusjr.com) then with the (sadly dead) [atom](https://github.com/atom/atom) and now [Visual Studio Code](https://code.visualstudio.com). I should use [vim](https://www.vim.org/) which is immuable.
 
 
 
