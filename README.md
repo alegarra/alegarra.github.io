@@ -5,11 +5,11 @@
 
 [comment]: # (![](https://www.dropbox.com/s/uq9ssnluafjmovk/puilaurens.jpg?dl=0 ) )
 
+Since 2023 I am Senior Geneticist for [CDCB](https://uscdcb.com) working in genetic evaluation os US dairy cattle. 
 
+ My work is related to quantitative genetics and genetic evaluation of livestock. E-mail me at andres dot legarra at inrae dot fr .
 
-I am Research Director at [INRA Toulouse](http://www.toulouse.inra.fr/en) in the [GenPhySE](http://genphyse.toulouse.inra.fr) unit, at the [Animal Genetics](www.ga.inra.fr/en) department. My work is related to quantitative genetics and genetic evaluation of livestock. E-mail me at andres dot legarra at inrae dot fr .
-
-I did my PhD in [Neiker](http://www.neiker.net/?lang=en) with [Eva Ugarte](http://www.neiker.net/ia/produccion-animal/lineas-investigacion-pa/?lang=en)  and I did a postdoc at the Animal and Dairy Science Department at the University of Georgia, with [Ignacy Misztal and Keith Bertrand](http://nce.ads.uga.edu).
+I did my PhD in [Neiker](http://www.neiker.net/?lang=en) with [Eva Ugarte](http://www.neiker.net/ia/produccion-animal/lineas-investigacion-pa/?lang=en)  and I did a postdoc at the Animal and Dairy Science Department at the University of Georgia, with [Ignacy Misztal and Keith Bertrand](http://nce.ads.uga.edu). For 17 years I have been Research Director at [INRA Toulouse](http://www.toulouse.inra.fr/en) in the [GenPhySE](http://genphyse.toulouse.inra.fr) unit, at the [Animal Genetics](www.ga.inra.fr/en) department. I am now on unpaid leave.
 
 This is my new, non-fancy web page created with [markdown](https://en.wikipedia.org/wiki/Markdown) and [MacDown](http://macdown.uranusjr.com).
 
