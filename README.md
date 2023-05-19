@@ -104,7 +104,4 @@ and, in English:
 * a [longer CV](http://genoweb.toulouse.inra.fr/~alegarra/CV_english_long_v3.pdf), and
 * a [list of publications](http://genoweb.toulouse.inra.fr/~alegarra/ANNEXES_2015.pdf).
 
-----
-
-This web page is hosted by the **genotoul bioinformatics platform Toulouse Midi-Pyrenees** [Bioinfo](http://www.genotoul.fr) [Genotoul](http://bioinfo.genotoul.fr/index.php).
 
