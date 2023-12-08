@@ -7,7 +7,7 @@
 
 Since 2023 I am Senior Geneticist for [CDCB](https://uscdcb.com) working in genetic evaluation os US dairy cattle. 
 
- My work is related to quantitative genetics and genetic evaluation of livestock. E-mail me at andres dot legarra at inrae dot fr .
+ My work is related to quantitative genetics and genetic evaluation of livestock. E-mail me at andres dot legarra at uscdcb dot com .
 
 I did my PhD in [Neiker](http://www.neiker.net/?lang=en) with [Eva Ugarte](http://www.neiker.net/ia/produccion-animal/lineas-investigacion-pa/?lang=en)  and I did a postdoc at the Animal and Dairy Science Department at the University of Georgia, with [Ignacy Misztal and Keith Bertrand](http://nce.ads.uga.edu). For 17 years I have been Research Director at [INRA Toulouse](http://www.toulouse.inra.fr/en) in the [GenPhySE](http://genphyse.toulouse.inra.fr) unit, at the [Animal Genetics](www.ga.inra.fr/en) department. I am now on unpaid leave.
 
