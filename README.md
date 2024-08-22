@@ -24,6 +24,7 @@ You can find in this page links to
 [Researchgate](https://www.researchgate.net/profile/Andres_Legarra),
 [PubMed](http://www.ncbi.nlm.nih.gov/pubmed?term=Legarra%20A%5BAuthor%5D) and
 [ProdINRA](http://prodinra.inra.fr/au/alegarraalb)  profiles
+* My [**github**](https://github.com/alegarra/) 
 
 ## Software
  I have developed my own programs
@@ -53,6 +54,14 @@ This is a course that is taught every two years at [UGA](http://nce.ads.uga.edu)
 * and [slides](http://genoweb.toulouse.inra.fr/~alegarra/slides_all.pdf)-->
 
 ## Other material
+
+### Notes on Linear Models for Breeding Value prediction (in Spanish)
+
+Fundamentos matematicos de la prediccion de valores de cria. Francisco Javier Mendizábal Múgica. 1994
+
+Notas de la asignatura Mejora Genética Animal. Escuela Técnica Superior de Ingenieros Agrónomos, UPNA. Pamplona-Iruña, 1994. 
+
+https://github.com/alegarra/Fundamentos/blob/main/capitulo_all.pdf 
 
 ### Genomia
 
