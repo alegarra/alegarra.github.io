@@ -5,7 +5,7 @@
 
 [comment]: # (![](https://www.dropbox.com/s/uq9ssnluafjmovk/puilaurens.jpg?dl=0 ) )
 
-Since 2023 I am Senior Geneticist for [CDCB](https://uscdcb.com) working in genetic evaluation os US dairy cattle. I am also _ad honorem_ Adjunct Assistant Professor in Animal Genetics and Genomics, University of Georgia.
+Since 2023 I am Senior Geneticist for [CDCB](https://uscdcb.com) working in genetic evaluation os US dairy cattle. I am also Adjunct (which means no salary and no major duties) Assistant Professor in Animal Genetics and Genomics, University of Georgia.
 
  My work is related to quantitative genetics and genetic evaluation of livestock. E-mail me at andres dot legarra at uscdcb dot com .
 
