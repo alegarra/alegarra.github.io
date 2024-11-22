@@ -42,18 +42,20 @@ and helped in others' people programs:
 
 ## Reviewing
 
-- I am Senior Editor (Breeding, Genetics, and Genomics) of [Journal of Dairy Science](http://www.journalofdairyscience.org)
-- ...and Associate Editor of [Genetics Selection Evolution](https://gsejournal.biomedcentral.com)
-- ...and I chat in [Acteon](http://acteon.webs.upv.es)
+- I was (2018-2023) Section, then Senior Editor (Breeding, Genetics, and Genomics) of [Journal of Dairy Science](http://www.journalofdairyscience.org)
+- I am Associate Editor of [Genetics Selection Evolution](https://gsejournal.biomedcentral.com)
 
 ## Course on Genomic Selection
 
-This is a course that is taught every two years at [UGA](http://nce.ads.uga.edu), with materials of the [2018 edition](http://nce.ads.uga.edu/wiki/doku.php?id=course_information_-_uga_2018) . I often teach a part of it. Some materials that we have constructed for this course include notes *Bases for Genomic Prediction* [in pdf](http://genoweb.toulouse.inra.fr/~alegarra/GSIP.pdf) , [in epub](http://genoweb.toulouse.inra.fr/~alegarra/GSIP.epub) , and [in single-file html](http://genoweb.toulouse.inra.fr/~alegarra/GSIP.html) (but without the Appendix) formats.
+This is a course that is taught every two years at [UGA](http://nce.ads.uga.edu), with materials of the [2024 edition](https://nce.ads.uga.edu/wiki/doku.php?id=course_information_-_uga_2024) . I often teach a part of it. Some materials that we have constructed for this course include notes [Bases for Genomic Prediction]().
 
 <!--* computer [exercises](http://genoweb.toulouse.inra.fr/~alegarra/lab_all.pdf)
 * and [slides](http://genoweb.toulouse.inra.fr/~alegarra/slides_all.pdf)-->
 
 ## Other material
+
+I chat in [Acteon](http://acteon.webs.upv.es) and in [bluesky](https://bsky.app/profile/alegarra.bsky.social)
+
 
 ### Notes on Linear Models for Breeding Value prediction (in Spanish)
 
