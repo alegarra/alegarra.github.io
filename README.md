@@ -93,7 +93,7 @@ Really [nothing very sophisticated](my_julia.html).
 
 
 Taught by [Miguel Angel Toro](https://scholar.google.es/citations?user=NBnXp5QAAAAJ&hl=en), Universidad Politecnica de Madrid at GenPhySE,
-INRA Toulouse March 14-17, 2017. Slides are [here](slides_all_miguel_toro.pdf).
+INRA Toulouse March 14-17, 2017. Slides are [here](https://drive.google.com/file/d/1DXXf0YO86Cpansda-QjhybKx8_eijSWH/view?usp=sharing).
 
 
 
