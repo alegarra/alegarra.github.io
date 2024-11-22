@@ -30,7 +30,7 @@ You can find in this page links to
  I have developed my own programs
 
 - for genomic prediction [GS3 in Github](https://github.com/alegarra/gs3) and here with [linux](gs3_linux64bit_executable), [mac](gs3_static_iOS), and [manual](manualgs3_last.pdf) . GS3 was partially financed by [Genomia](http://www.genomia.net), which was financed by [Poctefa](https://www.poctefa.eu).
-- for variance components in multiple trait threshold models TM [source code](), [Windows executable]() and [manual]()
+- for variance components in multiple trait threshold models TM [source code](TMdist.tar.gz), [Windows executable](tm.exe) and [manual](manualtm.pdf)
 
 and helped in others' people programs:
 
@@ -47,7 +47,7 @@ and helped in others' people programs:
 
 ## Course on Genomic Selection
 
-This is a course that is taught every two years at [UGA](http://nce.ads.uga.edu), with materials of the [2024 edition](https://nce.ads.uga.edu/wiki/doku.php?id=course_information_-_uga_2024) . I often teach a part of it. Some materials that we have constructed for this course include notes [Bases for Genomic Prediction]().
+This is a course that is taught every two years at [UGA](http://nce.ads.uga.edu), with materials of the [2024 edition](https://nce.ads.uga.edu/wiki/doku.php?id=course_information_-_uga_2024) . I often teach a part of it. Some materials that we have constructed for this course include notes [Bases for Genomic Prediction](GSIP.pdf).
 
 <!--* computer [exercises](http://genoweb.toulouse.inra.fr/~alegarra/lab_all.pdf)
 * and [slides](http://genoweb.toulouse.inra.fr/~alegarra/slides_all.pdf)-->
