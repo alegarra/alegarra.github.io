@@ -1,6 +1,6 @@
 # Andres Legarra
 
-<img src="http://genoweb.toulouse.inra.fr/~alegarra/puilaurens.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="puilaurens.jpg" alt="Drawing" style="width: 200px;"/>
 
 
 [comment]: # (![](https://www.dropbox.com/s/uq9ssnluafjmovk/puilaurens.jpg?dl=0 ) )
