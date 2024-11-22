@@ -67,7 +67,7 @@ I found this very useful to understand linear models, generalized inverses, esti
 
 ### Genomia
 
-In our [POCTEFA](https://www.poctefa.eu/) grant that what called Genomia, we wrote a document with the state of the art of dairy sheep selection across the Pyrenees. You can find it [here](http://genoweb.toulouse.inra.fr/~alegarra/genomia_all.pdf). 
+In our [POCTEFA](https://www.poctefa.eu/) grant that what called Genomia, we wrote a document with the state of the art of dairy sheep selection across the Pyrenees. You can find it [here](genomia_all.pdf). 
 
 ### Metafounders
 
