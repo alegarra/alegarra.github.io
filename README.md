@@ -29,8 +29,8 @@ You can find in this page links to
 ## Software
  I have developed my own programs
 
-- for genomic prediction [GS3 in Github](https://github.com/alegarra/gs3) and [GS3 in Genotoul](http://genoweb.toulouse.inra.fr/~alegarra/gs3_folder), with several executable files. GS3 was partially financed by [Genomia](http://www.genomia.net), which was financed by [Poctefa](https://www.poctefa.eu).
-- for variance components in multiple trait threshold models [TM](http://genoweb.toulouse.inra.fr/~alegarra/tm_folder)
+- for genomic prediction [GS3 in Github](https://github.com/alegarra/gs3) and here with [linux](gs3_linux64bit_executable), [mac](gs3_static_iOS), and [manual](manualgs3_last.pdf) . GS3 was partially financed by [Genomia](http://www.genomia.net), which was financed by [Poctefa](https://www.poctefa.eu).
+- for variance components in multiple trait threshold models TM [source code](), [Windows executable]() and [manual]()
 
 and helped in others' people programs:
 
