@@ -59,11 +59,11 @@ I chat in [Acteon](http://acteon.webs.upv.es) and in [bluesky](https://bsky.app/
 
 ### Notes on Linear Models for Breeding Value prediction (in Spanish)
 
-Fundamentos matematicos de la prediccion de valores de cria. Francisco Javier Mendizábal Múgica. 1994
+_Fundamentos matematicos de la prediccion de valores de cria._
 
-Notas de la asignatura Mejora Genética Animal. Escuela Técnica Superior de Ingenieros Agrónomos, UPNA. Pamplona-Iruña, 1994. 
+Francisco Javier Mendizábal Múgica. 1994. Notas de la asignatura Mejora Genética Animal. Escuela Técnica Superior de Ingenieros Agrónomos, UPNA. Pamplona-Iruña, 1994. 
 
-https://github.com/alegarra/Fundamentos/blob/main/capitulo_all.pdf 
+I found this very useful to understand linear models, generalized inverses, estimable functions with simple examples. See here: <https://github.com/alegarra/Fundamentos/blob/main/capitulo_all.pdf> 
 
 ### Genomia
 
