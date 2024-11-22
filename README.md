@@ -71,19 +71,19 @@ In our [POCTEFA](https://www.poctefa.eu/) grant that what called Genomia, we wro
 
 ### Metafounders
 
-[Our paper in metafounders' theory](https://academic.oup.com/genetics/article/200/2/455/5936198#326396912)  contained source code that is lost from the new Genetics site. You cand found this source code [here](https://genoweb.toulouse.inra.fr/~alegarra/metafounders_code.tar.gz). 
+[Our paper in metafounders' theory](https://academic.oup.com/genetics/article/200/2/455/5936198#326396912)  contained source code that is lost from the new Genetics site. You cand found this source code [here](metafounders_code.tar.gz). 
 
 
-I have written a tutorial, [here](http://genoweb.toulouse.inra.fr/~alegarra/ThreeWayDist/crosses_blupf90.pdf) on the use of metafounders to analyse crossbred data with the [blupf90 wiki](http://nce.ads.uga.edu/wiki/doku.php?id=start) suite using SSGBLUP. The tutorial is conceived for 3-way crosses but the ideas inside can be used (easily) for 2- or 4-way crosses or (a bit more difficult) for complex crosses like in sheep. This work has been financed by [Smarter](https://www.smarterproject.eu/).
+I have written a tutorial, [here](crosses_blupf90.pdf) on the use of metafounders to analyse crossbred data with the [blupf90 wiki](http://nce.ads.uga.edu/wiki/doku.php?id=start) suite using SSGBLUP. The tutorial is conceived for 3-way crosses but the ideas inside can be used (easily) for 2- or 4-way crosses or (a bit more difficult) for complex crosses like in sheep. This work has been financed by [Smarter](https://www.smarterproject.eu/).
 
 ### Method LR
 
-Similarly, another tutorial  [here](http://genoweb.toulouse.inra.fr/~alegarra/SMARTER_D5.3_Use_of_method_LR.pdf) explains the use of method LR to analyze bias and accuracies of evaluation (including genomic prediction). This work has been financed by [Smarter](https://www.smarterproject.eu/).
+Similarly, another tutorial  [here](SMARTER_D5.3_Use_of_method_LR.pdf) explains the use of method LR to analyze bias and accuracies of evaluation (including genomic prediction). This work has been financed by [Smarter](https://www.smarterproject.eu/).
 
 
 ### Quick notes for myself on Julia
 
-Really [nothing very sophisticated](http://genoweb.toulouse.inra.fr/~alegarra/my_julia.html).
+Really [nothing very sophisticated](my_julia.html).
 
 
 ## Courses held at GenphySE, INRA
@@ -93,26 +93,26 @@ Really [nothing very sophisticated](http://genoweb.toulouse.inra.fr/~alegarra/my
 
 
 Taught by [Miguel Angel Toro](https://scholar.google.es/citations?user=NBnXp5QAAAAJ&hl=en), Universidad Politecnica de Madrid at GenPhySE,
-INRA Toulouse March 14-17, 2017. Slides are [here](http://genoweb.toulouse.inra.fr/~alegarra/slides_all_miguel_toro.pdf).
+INRA Toulouse March 14-17, 2017. Slides are [here](slides_all_miguel_toro.pdf).
 
 
 
 ### Systems Biology and Gene Networks Inference: Application to Livestock Breeding and Genetics
 
 Taught by [Toni Reverter](https://people.csiro.au/R/T/Toni-Reverter-Gomez.aspx), CSIRO Agriculture and Food, Brisbane, Australia at
-GenPhySE, INRA Toulouse, Nov 19-23, 2018. All slides are [here](http://genoweb.toulouse.inra.fr/~alegarra/slides_all_toni_reverter.pdf).
+GenPhySE, INRA Toulouse, Nov 19-23, 2018. All slides are [here](slides_all_toni_reverter.pdf).
 
 
 ## Some other documents
 
-* My 2002 [PhD dissertation](http://genoweb.toulouse.inra.fr/~alegarra/tesis_andres_legarra.pdf) (in Spanish)
-* My 2012 [HDR dissertation](http://genoweb.toulouse.inra.fr/~alegarra/final_al.pdf) (in French)
+* My 2002 [PhD dissertation](tesis_andres_legarra.pdf) (in Spanish)
+* My 2012 [HDR dissertation](final_al.pdf) (in French)
 
 and, in English:
 
-* a [short bio](http://genoweb.toulouse.inra.fr/~alegarra/short_bio.txt)
-* a [1-paragraph CV](http://genoweb.toulouse.inra.fr/~alegarra/1%20paragraph%20CV.txt)
-* a [longer CV](http://genoweb.toulouse.inra.fr/~alegarra/CV_english_long_v3.pdf), and
-* a [list of publications](http://genoweb.toulouse.inra.fr/~alegarra/ANNEXES_2015.pdf).
+* a [short bio](short_bio.txt)
+* a [1-paragraph CV](1%20paragraph%20CV.txt)
+* a [longer CV](CV_english_long_v3.pdf), and
+* a [list of publications](ANNEXES_2015.pdf).
 
 
