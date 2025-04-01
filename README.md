@@ -9,9 +9,9 @@ Since 2023 I am Senior Geneticist for [CDCB](https://uscdcb.com) working in gene
 
  My work is related to quantitative genetics and genetic evaluation of livestock. E-mail me at andres dot legarra at uscdcb dot com .
 
-I did my PhD in [Neiker](http://www.neiker.net/?lang=en) with [Eva Ugarte](http://www.neiker.net/ia/produccion-animal/lineas-investigacion-pa/?lang=en)  and I did a postdoc at the Animal and Dairy Science Department at the University of Georgia, with [Ignacy Misztal and Keith Bertrand](http://nce.ads.uga.edu). For 17 years I have been Research Director at [INRA Toulouse](http://www.toulouse.inra.fr/en) in the [GenPhySE](http://genphyse.toulouse.inra.fr) unit, at the [Animal Genetics](www.ga.inra.fr/en) department. I am now on unpaid leave.
+I did my PhD in [Neiker](http://www.neiker.eus) with [Eva Ugarte](https://www.youtube.com/watch?v=e7Zge7fU8EQ)  and I did a postdoc at the Animal and Dairy Science Department at the University of Georgia, with [Ignacy Misztal and Keith Bertrand](http://nce.ads.uga.edu). For 17 years I was Research Director at [INRAE Toulouse](http://www.toulouse.inra.fr/en) in the [GenPhySE](http://genphyse.toulouse.inra.fr) unit, at the [Animal Genetics](www.ga.inra.fr/en) department, and I am now on unpaid leave from INRAE.
 
-This is my new, non-fancy web page created with [markdown](https://en.wikipedia.org/wiki/Markdown) and [MacDown](http://macdown.uranusjr.com) then with the (sadly dead) [atom](https://github.com/atom/atom) and now [Visual Studio Code](https://code.visualstudio.com). I should use [vim](https://www.vim.org/) which is immuable.
+This non-fancy web page was created with [markdown](https://en.wikipedia.org/wiki/Markdown) and [MacDown](http://macdown.uranusjr.com) then with the (sadly dead) [atom](https://github.com/atom/atom) and now [Visual Studio Code](https://code.visualstudio.com). I should use [vim](https://www.vim.org/) which is immuable.
 
 
 
