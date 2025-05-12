@@ -108,11 +108,9 @@ GenPhySE, INRA Toulouse, Nov 19-23, 2018. All slides are [here](slides_all_toni_
 * My 2002 [PhD dissertation](tesis_andres_legarra.pdf) (in Spanish)
 * My 2012 [HDR dissertation](final_al.pdf) (in French)
 
-and, in English:
+## CV etc:
 
 * a [short bio](short_bio.txt)
-* a [1-paragraph CV](1%20paragraph%20CV.txt)
-* a [longer CV](CV_english_long_v3.pdf), and
-* a [list of publications](ANNEXES_2015.pdf).
+* a [long CV](CvFullAscii.pdf)
 
 
